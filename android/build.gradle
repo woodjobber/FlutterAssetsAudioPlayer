@@ -37,7 +37,7 @@ android {
     defaultConfig {
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        minSdkVersion 22
+        minSdkVersion 24
     }
     lintOptions {
         disable 'InvalidPackage'
